@@ -70,10 +70,6 @@ Special thanks to [Taylor Otwell](https://laravel.com/), [Jeffrey Way](https://l
 
 are welcome. Pull requests are great, but issues are good too.
 
-## Contributors
-
-This project exists thanks to all the people who contribute.
-<a href="graphs/contributors"><img src="https://opencollective.com/genealogy/contributors.svg?width=890&button=false" /></a>
 
 
 ## Backers
